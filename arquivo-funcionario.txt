@@ -1,0 +1,25 @@
+Nome:arielzinho
+Idade:23
+Sexo:m
+Telefone:5 99999999
+Email:lcportel@email
+Cpf:67 789 0099
+Cargo:iretor
+Salario:10000
+Nome:bruno
+Idade:25
+Sexo:masculino
+Telefone:99999999
+Email:bruno@bruno.com
+Cpf:789.987.789-70
+Cargo:programador
+Salario:4000
+Nome:mateus
+Idade:26
+Sexo:masculino
+Telefone:99999999
+Email:mateus@mateus.com
+Cpf:789.987.789-90
+Cargo:programador
+Salario:9000
+ariel|12|masculino|8768879879|ariel@ariel.com|78978978987|programador|8000

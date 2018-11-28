@@ -1,0 +1,28 @@
+Nome do Aluno:matuezinho
+Idade do Aluno:23 anos
+Sexo do Aluno:masculino
+Telefone do Aluno:6666666
+Email do Aluno:raumavez@email
+Cpf do Aluno:45 345 345 77
+Média do Aluno:4
+Nome do Aluno:Jo�o Bruno
+Idade do Aluno:25 anos
+Sexo do Aluno:masculino
+Telefone do Aluno:5 88791808
+Email do Aluno:runofreitas.93@hotmail.com
+Cpf do Aluno:89.456.123-01
+Média do Aluno:10
+Nome do Aluno:joao
+Idade do Aluno:78 anos
+Sexo do Aluno:masculino
+Telefone do Aluno:89456123
+Email do Aluno:bruno@hotmail.com
+Cpf do Aluno:8945612378
+Média do Aluno:10
+Nome do Aluno:evneivreiuv
+Idade do Aluno:78 anos
+Sexo do Aluno:oeiajvoa
+Telefone do Aluno:864313
+Email do Aluno:ovrevieaurvieru
+Cpf do Aluno:861325493
+Média do Aluno:10
